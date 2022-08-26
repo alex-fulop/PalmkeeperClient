@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "642974547007",
+    "project_id": "palmkeeper-b4ed3",
+    "storage_bucket": "palmkeeper-b4ed3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642974547007:android:08223cbe0eba30ac1b0c8a",
+        "android_client_info": {
+          "package_name": "com.palmkeeper.palmclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642974547007-j4pdj28nmjs1j2ls0dpd7vsl87mkltb8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.palmkeeper.palmclient",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "642974547007-0fa1nujanu8k94ap78k94vk8e2shejjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcTV3bAg34admlDn6fRtgD8jkFScbVR0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642974547007-0fa1nujanu8k94ap78k94vk8e2shejjg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "642974547007-98rmiq8g0fssf9s64dtocif0lotna155.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.palmkeeper.palmclient"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642974547007:android:b11c220e251f3e561b0c8a",
+        "android_client_info": {
+          "package_name": "com.palmkeeper.palmclientv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642974547007-fc23o8p6v95kib3ej6g4if4jjuhabm39.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.palmkeeper.palmclientv2",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "642974547007-0fa1nujanu8k94ap78k94vk8e2shejjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcTV3bAg34admlDn6fRtgD8jkFScbVR0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642974547007-0fa1nujanu8k94ap78k94vk8e2shejjg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "642974547007-98rmiq8g0fssf9s64dtocif0lotna155.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.palmkeeper.palmclient"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
